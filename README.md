@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![Screenshot](screenshot.jpeg)
+![Screenshot](Screenshot.jpeg)
 
 ## Links
 
